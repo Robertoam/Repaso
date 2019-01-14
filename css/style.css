@@ -1,0 +1,74 @@
+#navbar{
+	background-color: black;
+	position: fixed;
+	width: 100%;
+	left: 0;
+	top: 0;
+}
+
+#navbar a{
+	float: right;
+	color: white;
+	margin: 15px;
+	font-size: 17px;
+
+}
+
+#navbar a:hover{
+	background: white;
+	color: black;
+}
+body{
+	background-color: darkorange;
+	padding:70px 30px;
+	margin: 0;
+}
+
+.main{
+	background: white;
+	text-align: center;
+	margin: 70px 30px;
+
+}
+.main img{
+	margin: 10px;
+	width: 95%;
+	height: auto;
+}
+
+.main img:hover{
+	border:5px black double;
+}
+
+.main h1{
+	margin:0 30px 0;
+	padding: 0 30px 0;
+}
+.main p{
+	margin:0 20px 0;
+	padding: 0 30px 0;
+}
+footer {
+	background-color: black;
+	color: white;
+	left: 0;
+	text-align: center;
+	width: 100%;
+}
+footer img{
+	margin: 30px;
+}
+
+footer incons{
+
+}
+
+footer span{
+	margin-top: 10px;
+	font-size: 1.5em;
+}
+
+#formulario{
+	background-color: white;
+	margin: 5.5em;
+}
